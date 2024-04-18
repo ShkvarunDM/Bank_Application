@@ -25,6 +25,21 @@
 * Если сумма, необходимая для перевода превышает баланс транзакция не осуществляется
 * По умолчанию баланс при регистрации составляет 0 руб
 * Вся инфомация о клиенте и о карте хранится в базе данных
-  
+
+
 ## Тестирование
-![IMG_9124](https://github.com/ShkvarunDM/Bank_Application/assets/103378631/47b7fea0-b3ef-4b1c-a70c-46bc4da36136)
+
+<p>Регистрация клиента банка:</p>
+
+<p align="center">
+  <img src="https://github.com/ShkvarunDM/Bank_Application/assets/103378631/47b7fea0-b3ef-4b1c-a70c-46bc4da36136" alt="animated" >
+</p>
+
+<p>Вход в приложение:</p>
+
+<p align="center">
+  <img src="https://github.com/ShkvarunDM/Bank_Application/assets/103378631/ae0634e3-caad-4c55-ad19-b7d8a3cacddf" alt="animated" >
+</p>
+
+
+
